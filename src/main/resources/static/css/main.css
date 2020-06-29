@@ -1,0 +1,32 @@
+html {
+  background-color: #eee;
+  padding: 0.5em 1em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  display: block;
+  color: rgb(222, 190, 64);
+}
+
+.welcome {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+#submitButton {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#banner {
+  width: 100%;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
